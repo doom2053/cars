@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "path": "C:\\Users\\Mark\\Desktop\\Cars\\client"
+    },
+    {
+      "path": "C:\\Users\\Mark\\Desktop\\Cars\\demo"
+    },
+    {
+      "path": "C:\\Users\\Mark\\Desktop\\springBootThymeleafAngular5-master\\springBootThymeleafAngular5-master\\springBootThymeleafAngular5"
+    },
+    {
+      "path": "C:\\Users\\Mark\\Desktop\\SpringBoot\\springboot"
+    }
+  ],
+  "settings": {
+    "javascript.referencesCodeLens.enabled": true,
+    "typescript.implementationsCodeLens.enabled": true
+  }
+}
